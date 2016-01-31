@@ -1,0 +1,1187 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"productExist"
+			],
+			[
+				"log",
+				"login_user_id"
+			],
+			[
+				"bl",
+				"block_b"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"blo",
+				"blockAItem"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"class",
+				"classArray"
+			],
+			[
+				"mod_pro",
+				"mod_product_class"
+			],
+			[
+				"pra",
+				"preventDefault"
+			],
+			[
+				"res",
+				"result_array"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"onlin",
+				"online_data"
+			],
+			[
+				"mod",
+				"mod_onlineusers"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"vi",
+				"view_data"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"sys",
+				"sys_code"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"cart",
+				"cartData"
+			],
+			[
+				"com",
+				"complete"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"sta",
+				"stacode"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"de",
+				"dealer"
+			],
+			[
+				"btn",
+				"btnRemove"
+			],
+			[
+				"each",
+				"each	$.each()"
+			],
+			[
+				"car",
+				"cartData"
+			],
+			[
+				"json_",
+				"json_arr"
+			],
+			[
+				"user",
+				"userdata"
+			],
+			[
+				"produ",
+				"product_id"
+			],
+			[
+				"chk_",
+				"chk_status"
+			],
+			[
+				"product",
+				"productlist"
+			],
+			[
+				"new",
+				"newStatusValue"
+			],
+			[
+				"clsoe",
+				"closest	.closest()"
+			],
+			[
+				"page",
+				"page_price"
+			],
+			[
+				"label",
+				"labelPrice"
+			],
+			[
+				"labe",
+				"labelPrice"
+			],
+			[
+				"data",
+				"dataArray"
+			],
+			[
+				"pr",
+				"product_id"
+			],
+			[
+				"max",
+				"maxNumber"
+			],
+			[
+				"member",
+				"member_id"
+			],
+			[
+				"close",
+				"closest	.closest()"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"inside",
+				"insideComments"
+			],
+			[
+				"option",
+				"optionGroupsFeedLike"
+			],
+			[
+				"now",
+				"nowDate"
+			],
+			[
+				"lis",
+				"likes_count"
+			],
+			[
+				"likes",
+				"likes_count"
+			],
+			[
+				"comments",
+				"comments_count"
+			],
+			[
+				"shares",
+				"shares_count"
+			],
+			[
+				"mod_",
+				"mod_user"
+			],
+			[
+				"qe",
+				"qeID"
+			],
+			[
+				"quire",
+				"quireCount"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"te",
+				"textCount"
+			],
+			[
+				"tag",
+				"tagged_places"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"qu",
+				"questionnaire"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"an",
+				"angular-route/"
+			],
+			[
+				"m",
+				"Materialize/"
+			],
+			[
+				"meth",
+				"methodOverride"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"p",
+				"public/"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"inde",
+				"indexRoute"
+			],
+			[
+				"lg",
+				"logger"
+			],
+			[
+				"con",
+				"connectLogStream"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"dk_pr",
+				"dk_products_thing.css"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"in",
+				"industry"
+			],
+			[
+				"like",
+				"likeSQL"
+			],
+			[
+				"al",
+				"albumList"
+			],
+			[
+				"albu",
+				"albumlist"
+			],
+			[
+				"g",
+				"grapher"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"friends",
+				"friendsResponse"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"api",
+				"apiBackAlbum"
+			],
+			[
+				"get",
+				"getUrlParameter"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"act",
+				"activity"
+			],
+			[
+				"ac",
+				"actListSelect"
+			],
+			[
+				"gr",
+				"graphers_id"
+			],
+			[
+				"mod_admin",
+				"mod_admin_album"
+			],
+			[
+				"fee",
+				"feedResponse"
+			],
+			[
+				"pl",
+				"placeName"
+			],
+			[
+				"mw",
+				"mwTCMe"
+			],
+			[
+				"list",
+				"listFriends"
+			],
+			[
+				"zo",
+				"zoomLevel"
+			],
+			[
+				"promise",
+				"promise"
+			],
+			[
+				"strL",
+				"strLabelContent"
+			],
+			[
+				"frie",
+				"friendsArray"
+			],
+			[
+				"fr",
+				"friendsArray"
+			],
+			[
+				"str",
+				"strLabelContent"
+			],
+			[
+				"push",
+				"pushMarker"
+			],
+			[
+				"marker",
+				"markerArray"
+			],
+			[
+				"that",
+				"thatBox"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"ph",
+				"photoResponse"
+			],
+			[
+				"reset",
+				"reset_the_kind"
+			],
+			[
+				"path",
+				"pathArray"
+			],
+			[
+				"oneP",
+				"onePageHeight"
+			],
+			[
+				"infoWindow",
+				"infoWindowOption"
+			],
+			[
+				"search",
+				"searchBar"
+			],
+			[
+				"ma",
+				"maps"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"input",
+				"inputVmAddr"
+			],
+			[
+				"form",
+				"formViewpoint"
+			],
+			[
+				"c",
+				"ca"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"cont",
+				"controlBreadCrumb"
+			],
+			[
+				"j",
+				"javascript"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"bg",
+				"bgWidth"
+			],
+			[
+				"manager_",
+				"manager_update"
+			],
+			[
+				"chk",
+				"chkExist"
+			],
+			[
+				"man",
+				"manager_insert"
+			],
+			[
+				"exist",
+				"existGM"
+			],
+			[
+				"dis",
+				"distinct"
+			],
+			[
+				"joinGift",
+				"joinGiftSql"
+			],
+			[
+				"count",
+				"count_all_results"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"ap_rank",
+				"ap_rankSQLData"
+			],
+			[
+				"result",
+				"result_array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<!--\n  __  __              __          __   _ _             \n |  \\/  |             \\ \\        / /  | | |            \n | \\  / | __ _ _ __  __\\ \\  /\\  / /_ _| | | _____ _ __ \n | |\\/| |/ _` | '_ \\/ __\\ \\/  \\/ / _` | | |/ / _ \\ '__|\n | |  | | (_| | |_) \\__ \\\\  /\\  / (_| | |   <  __/ |   \n |_|  |_|\\__,_| .__/|___/ \\/  \\/ \\__,_|_|_|\\_\\___|_|   \n              | |                                      \n              |_|                                  \n-->\n<head>\n	<meta charset=\"UTF-8\">\n	<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\" />\n	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0\">\n	<title>Monkey</title>\n	<!-- ********** font ********** -->\n	<link href='https://fonts.googleapis.com/css?family=Quicksand:400,700' rel='stylesheet' type='text/css'>\n	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>\n	<!-- ********** plugin ********** -->\n	<link rel=\"stylesheet\" href=\"/dist/semantic.min.css\">\n	<!-- ********** main ********** -->\n	<link rel=\"stylesheet\" href=\"/css/index.css\">\n</head>\n<body>\n	<!-- main -->\n\n\n	<!-- script -->\n	<script type=\"text/javascript\" src=\"/jquery.min.js\"></script>\n\n	<script type=\"text/javascript\" src=\"/dist/semantic.min.js\"></script>\n\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 2218,
+			"file_write_time": 130987404339178325,
+			"settings":
+			{
+				"buffer_size": 1324,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 355.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Project/Monkey",
+		"/C/Project/Monkey/sass"
+	],
+	"file_history":
+	[
+		"/C/Project/DataHack/assets/sass/config.rb",
+		"/C/Project/Monkey/sass/config.rb",
+		"/C/Project/Monkey/index.html",
+		"/C/Project/Higo/application/views/console/layout.php",
+		"/C/Project/Mapswalker/mapswalker-v1.0.0-beta/walker/application/views/index.php",
+		"/C/Users/mylyf_000/Dropbox/Project/MapsWalker/mapswalker-v0.0.1-alpha/index.html",
+		"/C/Users/mylyf_000/Dropbox/Project/MapsWalker/mapswalker-v0.0.1-alpha/maps.html",
+		"/C/Users/mylyf_000/Dropbox/Project/MapsWalker/mapswalker-v0.0.1-alpha/console/application/views/login.php",
+		"/C/Project/Higo/update/2016-01-29.txt",
+		"/C/Project/Higo/application/views/console/ad/list.php",
+		"/C/Project/Higo/application/views/pages/product.php",
+		"/C/Project/Higo/application/views/pages/productMobileIntro.php",
+		"/C/Project/Higo/application/views/pages/productPCIntro.php",
+		"/C/Project/Higo/application/views/pages/productlist.php",
+		"/C/Project/Higo/application/views/pages/mobile_header.php",
+		"/C/Project/Higo/application/views/pages/left.php",
+		"/C/Project/Higo/application/views/pages/index.php",
+		"/C/Project/Higo/update/2016-01-28.txt",
+		"/C/Project/Higo/update/2016-01-27.txt",
+		"/C/Project/Higo/application/views/console/ad/add.php",
+		"/C/Project/Higo/application/views/console/member/add.php",
+		"/C/Project/Higo/application/views/pages/pc_header.php",
+		"/C/Project/Higo/application/views/pages/check.php",
+		"/C/Project/Higo/application/views/pages/cart.php",
+		"/C/Project/Higo/application/views/console/product_class/list.php",
+		"/C/Project/Higo/application/views/pages/pc_header",
+		"/C/Project/Higo/application/views/console/product/search.php",
+		"/C/Project/Higo/application/views/console/product/edit.php",
+		"/C/Project/Higo/application/views/console/product/add.php",
+		"/C/Project/Higo/application/views/console/product/list.php",
+		"/C/Project/Higo/application/views/pages/signup.php",
+		"/C/Project/Higo/application/views/console/member/list.php",
+		"/C/Project/Higo/application/views/console/order/list.php",
+		"/C/Project/Higo/application/views/pages/service.php",
+		"/C/Project/Higo/application/views/console/member/search.php",
+		"/C/Project/Higo/application/views/pages/AuthPage.php",
+		"/C/Project/Higo/update/2016-01-26.txt",
+		"/C/Project/Higo/application/views/pages/globe.php",
+		"/C/Project/Higo/application/views/pages/foot.php",
+		"/C/Project/Higo/update/2016-01-25.txt",
+		"/C/Users/mylyf_000/Dropbox/Project/dotgo/console/application/models/mod_activity.php",
+		"/C/Project/Higo/application/config/config.php",
+		"/C/Project/Higo/application/libraries/OnlineUsers.php",
+		"/C/Project/Higo/application/libraries/Hisms.php",
+		"/C/Project/Higo/application/libraries/Config.php",
+		"/C/Project/Higo/application/libraries/OnlineUser.php",
+		"/C/Project/Higo/application/views/console/member/designate.php",
+		"/C/Project/Higo/application/views/console/member/edit.php",
+		"/C/Project/Higo/application/views/console/order/add.php",
+		"/C/Project/Higo/application/views/console/order/deteal.php",
+		"/C/Project/Higo/application/views/console/order/search.php",
+		"/C/Project/Higo/application/views/console/login.php",
+		"/C/Project/Higo/application/views/pages/productOrder.php",
+		"/C/Project/Higo/application/views/pages/complete.php",
+		"/C/Project/Higo/application/views/pages/chat.php",
+		"/C/Project/Higo/application/views/pages/signin.php",
+		"/C/Project/Higo/update/2016-01-24.txt",
+		"/C/Project/Higo/2016-01-23.txt",
+		"/C/Project/Higo/update/2016-01-21.txt",
+		"/C/Project/Higo/update/2016-01-22.txt",
+		"/C/Project/Higo/update/2016-01-20.txt",
+		"/C/Project/DataHack/.git/config",
+		"/C/Project/Higo/.git/config",
+		"/C/Project/Mapswalker/mapswalker-v2.0.0-socialnetwork/.git/config",
+		"/C/Project/Higo/application/views/pages/check..php",
+		"/C/Project/Higo/application/views/pages/orderlist.php",
+		"/C/Project/Higo/application/config/autoload.php",
+		"/C/Project/Higo/update/2016-01-18.txt",
+		"/C/Project/Higo/update/2016-01-16.txt",
+		"/C/Users/mylyf_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Project/Higo/sftp-config.json",
+		"/C/Users/mylyf_000/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Project/Higo/update/2016-01-15.txt",
+		"/C/Project/Higo/update/2016-01-14.txt",
+		"/C/Project/Higo/update/2016-01-13.txt",
+		"/C/Project/Higo/update/2016-01-12.txt",
+		"/C/Project/Higo/update/2016-01-11.txt",
+		"/C/Project/Higo/update/2016-01-10.txt",
+		"/C/Project/Higo/application/views/console/member/contact.php",
+		"/C/Project/Higo/update/2016-01-08.txt",
+		"/C/Project/Higo/update/2016-01-07.txt",
+		"/C/Project/Higo/application/views/console/order/edit.php",
+		"/C/Project/Higo/update/2016-01-06.txt",
+		"/C/Project/Higo/update/2016-01-04.txt",
+		"/C/Project/Higo/application/controllers/Welcome.php",
+		"/C/Project/Higo/application/models/Mod_manager.php",
+		"/C/Project/Higo/update/2016-01-03.txt",
+		"/C/Project/Higo/update/2016-01-01.txt",
+		"/C/Project/Higo/update/2015-12-31.txt",
+		"/C/Project/Photochicken/application/models/Mdb_album.php",
+		"/C/Project/Photochicken/application/models/Mod_activity.php",
+		"/C/Project/Photochicken/application/models/Mod_graphers.php",
+		"/C/Project/Photochicken/application/models/Mod_admin_album.php",
+		"/C/Project/Photochicken/application/models/Mod_admin_photo.php",
+		"/C/Project/Photochicken/assets/js/photo.js",
+		"/C/Project/Higo/update/2015-12-29.txt",
+		"/C/Project/Higo/application/views/pages/store.php",
+		"/C/Project/Higo/update/2015-12-27.txt",
+		"/C/Project/Higo/update/2015-12-26.txt",
+		"/C/Project/Higo/application/views/console/index.php",
+		"/C/Users/mylyf_000/Dropbox/Project/Website-Console-Example/t-ace/ace/tables.html",
+		"/C/Project/DataHack/assets/css/quest.css",
+		"/C/Project/DataHack/assets/sass/sass/quest.sass",
+		"/C/Project/DataHack/assets/doc/DataHack 2015-12-18",
+		"/C/Project/DataHack/assets/sass/sass/components/_quest-components.sass",
+		"/C/Project/DataHack/assets/css/index.css",
+		"/C/Project/DataHack/assets/sass/sass/components/_index-components.sass",
+		"/C/Project/DataHack/assets/sass/sass/question.sass",
+		"/C/Project/DataHack/assets/sass/sass/questions.sass",
+		"/C/Project/DataHack/assets/sass/sass/index.sass",
+		"/C/Project/DataHack/assets/sass/sass/privacy.sass",
+		"/C/Project/DataHack/assets/css/questions.css",
+		"/C/Project/DataHack/assets/css/question.css",
+		"/C/Project/DataHack/assets/css/console.css",
+		"/C/Project/DataHack/assets/sass/sass/console.sass",
+		"/C/Project/DataHack/assets/js/console.js",
+		"/C/Project/DataHack/application/controllers/Console.php",
+		"/C/Project/DataHack/application/views/console/admin.php",
+		"/C/Project/DataHack/application/models/Mod_questionnaire.php",
+		"/C/Project/DataHack/application/config/database.php",
+		"/C/Project/DataHack/application/controllers/Welcome.php",
+		"/C/Project/DataHack/application/models/Mod_question.php",
+		"/C/Project/Mapswalker/mapswalker-v1.0.0-beta/app/assets/js/maps.js",
+		"/C/Project/DataHack/application/controllers/Quest.php",
+		"/C/Project/DataHack/application/models/Mod_user.php",
+		"/C/Project/DataHack/application/models/Mod_manager.php",
+		"/C/Project/DataHack/application/views/console/question.php",
+		"/C/Project/DataHack/application/views/console/login.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			"C:\\Project\\Photochicken\\assets,C:\\Project\\Minipaper\\Website",
+			"C:\\Project\\Photochicken\\assets",
+			"C:\\Project\\Photochicken\\assets\\js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"online_status",
+			"cartQty",
+			"check_buy",
+			"date",
+			"online_status",
+			"chk_status",
+			"‘",
+			"’",
+			"‘",
+			"’",
+			"location.href",
+			"href=\"/",
+			"href=\"/j",
+			"href=\"",
+			"ref=\"/j",
+			"href=\"",
+			"href=\"/j",
+			"href=\"",
+			"href=\"/j",
+			"href=\"",
+			"href=\"/j",
+			"href=\"",
+			"location.href",
+			"productLocations",
+			"productLocations\\",
+			"location",
+			"form-group",
+			"form-group ",
+			"col-xs-10 col-sm-5",
+			"class_name",
+			"icon-arrow-down",
+			"scratch",
+			"product-item",
+			"cartRemove",
+			"cartProduct",
+			"product-item",
+			"productTop",
+			"btnCheck",
+			"product_dealer",
+			"userdata",
+			"member_login",
+			"product-item",
+			"productTop",
+			"product-page",
+			"$options",
+			"modal-price",
+			"receipt-name",
+			"total",
+			"dealer",
+			"product_dealer",
+			"Path",
+			"base_url",
+			"signin",
+			"logout",
+			"userdata",
+			"sms",
+			"push_to_order",
+			"dealer_member_id",
+			"signin",
+			"scratch_price",
+			"btn-buy",
+			"date",
+			"container",
+			"auth_res_url",
+			"payment",
+			"showErrorAlert",
+			"qty",
+			"insertCartSQL",
+			"chk_status",
+			"get_order_scratch",
+			"push_to_scratch",
+			"common",
+			"../../",
+			"../..0",
+			"login",
+			"<?=$location ?>",
+			"checkout_to_order",
+			"price",
+			"product-page",
+			"chk_status",
+			"product",
+			"cost",
+			"id=\"product\"",
+			"src=\"a",
+			"src",
+			"product_edit",
+			"href = ",
+			"placeholder = ",
+			"id = ",
+			"for = ",
+			"method = ",
+			"action = ",
+			"class = ",
+			" >",
+			"< ",
+			"選單",
+			"左側",
+			"左側選單",
+			"getPhotosCommentData",
+			"							$like_data = array(\noptionGroupsFeedComment",
+			"optionGroupsFeedComment",
+			"getGroupsFeedCommentData",
+			"optionGroupsFeedComment",
+			"getFriendsData",
+			"console",
+			"getPostsCommentData",
+			"optionPostsComment",
+			"apiGroupsFeedLike",
+			"getGroupsFeedData",
+			"getGroupsMemberData",
+			"savePostsComments",
+			"savePostsLikeFile",
+			"getPostsData",
+			"apiTaggedPlaces",
+			"d",
+			"date",
+			"feedback",
+			"saveAnswer",
+			"document.location.href = 'quest';",
+			"fb_statusChangeCallback",
+			"問卷",
+			"使用者",
+			"qOptions",
+			"qOption",
+			"題型",
+			"問卷",
+			"questionnaire",
+			"Question"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"href=\"",
+			"href=\"j",
+			"href=\"/",
+			"href=\"j",
+			"href=\"/",
+			"href=\"j",
+			"href=\"/",
+			"href=\"j",
+			"href=\"/",
+			"href=\"j",
+			"href=\"/",
+			"form-group col-sm-6",
+			"col-sm-12",
+			"",
+			"src=\"<?=$location ?>a",
+			"src=\"<?=$location ?>asset",
+			"href=",
+			"placeholder=",
+			"id=",
+			"for=",
+			"method=",
+			"action=",
+			"class=",
+			">",
+			"<",
+			"使用者",
+			"qOptions",
+			"問題",
+			"題型",
+			"Questions",
+			"Question",
+			"[",
+			"]",
+			"cssPath",
+			"sassPath",
+			"<?//=$lang_member_register?><?='加入MINI'?>",
+			"<?=$lang_member_login?>",
+			"<?//=$lang_member_login?><?='加入MINI'?>",
+			"$main-color-1",
+			"\"]?",
+			"[\"",
+			"",
+			"!typeof response['paging']['next'] === 'undefined'",
+			"activity_date",
+			"../../dist",
+			"get_album_list",
+			"api_admin",
+			"graphers",
+			"Admin",
+			"graphers",
+			"activity_sn",
+			"activity_subject",
+			"activity_date",
+			"\"../dist/assets",
+			"../dist/assets",
+			".mwc-login-btn",
+			"$mw-color-other-7",
+			"$mw-color-other-8",
+			"fourteen",
+			"&&",
+			"map",
+			"markerArray",
+			"assets/",
+			"api.mapswalker.com/code/",
+			"http://api.mapswalker.com",
+			"../../assets/",
+			"",
+			"../../../",
+			"",
+			" ",
+			"",
+			" ",
+			" '",
+			" ",
+			",",
+			"",
+			",",
+			"Viewpoint",
+			"ViewType",
+			"vm",
+			"Viewpoint",
+			"Viewtype",
+			"Comment",
+			"Member",
+			"mdb_viewtype",
+			"mod_viewtype",
+			"Viewpoint",
+			"Viewtype",
+			"country",
+			"Country",
+			"country",
+			"Country",
+			"url(img/leaflet",
+			"onHidden",
+			"jsonList",
+			"mod_gift",
+			"$json['sys_code'] = '200';\n					$json['sys_msg'] = '處理完成';",
+			"$json['sys_code'] = '000';\n				$json['sys_msg'] = '參數不足';",
+			"tr",
+			"activity_end",
+			"activity_start",
+			"activity_subject",
+			"service_class_id",
+			"service_name",
+			"#fakebox_1_7",
+			"http://54.69.109.145:8081/",
+			"http://54.69.109.145:8080/",
+			"\\\"",
+			"",
+			"\\\"",
+			"",
+			"\\\"",
+			"",
+			"\\\"",
+			"",
+			"\\\"",
+			"",
+			"\\\"",
+			"",
+			"\\\"",
+			"",
+			"\\\"",
+			"",
+			"</div>\",",
+			"\"<div",
+			"\\\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Project\\Monkey"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1307,
+								1307
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatgrammer.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 121.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

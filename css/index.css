@@ -272,3 +272,61 @@ body {
 }
 
 /* ----------- start usee code ----------- */
+/* line 1, ../sass/sass/components/_index-components.sass */
+.wrapper {
+  width: 100%;
+  margin: 0 auto;
+  display: table;
+}
+/* line 6, ../sass/sass/components/_index-components.sass */
+.wrapper .w-header {
+  width: 100%;
+  height: 50px;
+  margin: 0 auto;
+  display: block;
+  background-color: #28b7b8;
+}
+/* line 13, ../sass/sass/components/_index-components.sass */
+.wrapper .w-header .wh-title {
+  color: #fff;
+  font-size: 24px;
+  line-height: 50px;
+  padding-left: 20px;
+}
+/* line 19, ../sass/sass/components/_index-components.sass */
+.wrapper .w-content {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 50px;
+  display: block;
+}
+
+/* line 26, ../sass/sass/components/_index-components.sass */
+.ui.card .img {
+  margin: 0 auto;
+}
+/* line 30, ../sass/sass/components/_index-components.sass */
+.ui.card .content .header {
+  line-height: 30px;
+}
+/* line 33, ../sass/sass/components/_index-components.sass */
+.ui.card .content .date {
+  font-size: 14px;
+  line-height: 20px;
+}
+/* line 37, ../sass/sass/components/_index-components.sass */
+.ui.card .content .description {
+  overflow: hidden;
+  line-height: 20px;
+  font-size: 14px;
+}
+/* line 43, ../sass/sass/components/_index-components.sass */
+.ui.card .extra.content .likes {
+  float: left;
+  font-size: 14px;
+}
+/* line 47, ../sass/sass/components/_index-components.sass */
+.ui.card .extra.content .shares {
+  float: right;
+  font-size: 14px;
+}

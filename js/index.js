@@ -1,5 +1,15 @@
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+var order = getParameterByName('order');
+var apiUrl = "http://capitol.tw/gene/monkey.php";
+if(order) apiUrl += "?order=" + order;
 jQuery(document).ready(function($) {
-	$.getJSON('http://capitol.tw/gene/monkey.php', function(json) {
+
+	$.getJSON(apiUrl, function(json) {
 		$.each(json, function(key, value) {
 			/* iterate through array or object */
 			var cardList = $('#card-list');
